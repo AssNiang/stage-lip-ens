@@ -1,0 +1,3369 @@
+<?xml version="1.0"?>
+<demos>
+  <demoitem>
+    <source>RecoverVHTDataFieldInMUMIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex00009405</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>PlotReferenceConstellationForAUserInAVHTConfigurationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex00242550</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateLSTFWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex00296477</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CodeGenerationWLANToolboxFeaturesExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex00592327</metadata>
+    <thumbnail>data/SystemVerilogDPIWorkflow.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>matlabcoder</product>
+    <file component="wlan" timestamp="1589811635">hCustomChannel.m</file>
+    <file component="wlan" timestamp="1589811635">hCustomChannelNT.m</file>
+    <file component="wlan" timestamp="1561039492">SystemVerilogDPIWorkflow.png</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateNonHTWaveformWithSpecifiedTransmissionTimeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex00797191</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>Hard4DimDemapExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex01474111</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DMGControlPHYPacketErrorRateExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex01970083</metadata>
+    <thumbnail>data/dmgControlPER.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">dmgControlPHY.png</file>
+    <file component="wlan" timestamp="0">dmgControlPER.png</file>
+  </demoitem>
+  <demoitem>
+    <source>SeqInterleavingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex02773582</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateMIMOChannelUsingVHTLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex03299772</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WlanDMGPhyTypeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex03381610</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateHETBWaveformTRSExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex03994118</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateMultiUserHEObjectForThreeUsersInOneRUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex04352459</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateSISOChannelUsingLLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex04413970</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTDeinterleavingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex04471953</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>StreamParseExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex04578379</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnFieldIndicesForHEMUWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex04585201</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>OFDMDemapExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex04706905</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverLSIGInformationfrom22MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex05105823</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateWlanS1GConfigObjectForTwoUsersExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex05192226</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateDefaultWURWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex05815583</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateAWlanVHTConfigObjectForSingleUserExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex06201903</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BasicWLANLinkModelingExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex06236847</metadata>
+    <thumbnail>html/BasicWLANLinkModelingExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">BasicWLANlinkModelingDiagram.png</file>
+    <file component="wlan" timestamp="0">BasicWLANlinkModelingNonHTpreamble.png</file>
+    <file component="wlan" timestamp="1538756172">vhtNoiseEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DMGExtendedMCSExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex06421889</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>NonHTPacketRecoveryExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex06496606</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTDataFieldOver2by2FadingChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex06669237</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ParseSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex06904777</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateWlanVHTConfigObjectForTwoUsersExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex07916087</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>Demodulatea22HTLTFwithOFDMSymbolOffsetExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex07927599</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANMACFrameToPcapngFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex07963300</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverLSIGfromPhaseandFrequencyOffsetExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex08105276</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WlanScrambleExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex08304601</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>OctetsHTFormatAMPDUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex09569577</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DetectDelayed80211acPacketExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex10059274</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ConstMapExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex10162588</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodVHTLTFEstimateChannelCoefficientsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex10524347</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheVHTLLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex10671648</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheS1GSIGFieldAndReturnOFDMInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex11111769</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BuildVHTPPDUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex11170579</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverDMGOFDMExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex11317479</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EqualizeLSIGSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex11341266</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HTMIMOPacketErrorRateExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex12486585</metadata>
+    <thumbnail>data/HTMIMOPERExample.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">HTMIMOPERDiagram.png</file>
+    <file component="wlan" timestamp="1652802169">HTMIMOPERExample.png</file>
+    <file component="wlan" timestamp="1538995938">htNoiseEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateHESUConfigObjectAndCalculatePacketTransmissionTimeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex13184038</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForRUsInHEMUWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex13270289</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>SpectralEmissionMaskDMGExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex13338473</metadata>
+    <thumbnail>html/SpectralEmissionMaskDMGExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">dmgChannelMap.png</file>
+    <file component="wlan" timestamp="0">dmgSpectralMask.png</file>
+    <file component="wlan" timestamp="1595515039">helperSpectralMaskTest.m</file>
+  </demoitem>
+  <demoitem>
+    <source>Detect80211nPacketExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex13422407</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemonstrateSIGBCompressionInMultiUserHEWaveformsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex13932316</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheHTDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex14154368</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateCoarseCFOForVHTWaveformCorrelationOffsetExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex14388501</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateRTSMACFrameInBitFormatExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex14544266</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>S1GShortPreamblePacketErrorRateExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex14628431</metadata>
+    <thumbnail>data/S1GShortPER.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">S1GPERExampleDiagram.png</file>
+    <file component="wlan" timestamp="0">S1GShortPER.png</file>
+    <file component="wlan" timestamp="1538737770">s1gDataBitRecover.m</file>
+    <file component="wlan" timestamp="1544535113">s1gLTFChannelEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WLANDownlinkOFDMASystemSimulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex14649925</metadata>
+    <thumbnail>data/WLANDownlinkOFDMASystemSimulationExample_thumbnail.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+    <file component="wlan" timestamp="1674147877">hSLSTGaxAbstractSystemChannel.m</file>
+    <file component="wlan" timestamp="1683123516">hSLSTGaxMultiFrequencySystemChannel.m</file>
+    <file component="wlan" timestamp="1683123516">hSLSTGaxSystemChannel.m</file>
+    <file component="wlan" timestamp="1674147877">hSLSTGaxSystemChannelBase.m</file>
+    <file component="wlan" timestamp="1689950139">hCheckWLANNodesConfiguration.m</file>
+    <file component="wlan" timestamp="1683124187">hCompareOFDMvsOFDMAThroughputs.m</file>
+    <file component="wlan" timestamp="1683124187">WLANDownlinkOFDMASystemSimulationExample_thumbnail.png</file>
+    <file component="wlan" timestamp="1689950139">hPlotPacketTransitions.m</file>
+    <file component="wlan" timestamp="1689950139">hVisualizePerformance.m</file>
+  </demoitem>
+  <demoitem>
+    <source>TestSpectralFlatnessForVHTTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex15220765</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheHELLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex15583444</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RTSFrameExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex16038374</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateaSingleStreamHTLTFWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex16451221</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverEHTSIGFieldBitsWithChannelStateInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex16536921</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANRadioFrequencyChannelsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex17122350</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1632404618">wlan_US_2_4GHz_channels.png</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateLSIGWaveformfor80MHzVHTPacketExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex17539774</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheHTLTFAndReturnOFDMInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex17705962</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetPSDULengthForWURConfigurationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex17782990</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateAVHTWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex18576641</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HEDownlinkMUExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex19026233</metadata>
+    <thumbnail>html/HEDownlinkMUExample_04.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">heDownlinkMUScenario.png</file>
+    <file component="wlan" timestamp="0">heDownlinkMUChannelDiagram.png</file>
+    <file component="wlan" timestamp="1636372616">heUserBeamformingFeedback.m</file>
+    <file component="wlan" timestamp="1572890253">heMUSimulateScenario.m</file>
+    <file component="wlan" timestamp="1545066362">heMUCalculateSteeringMatrix.m</file>
+  </demoitem>
+  <demoitem>
+    <source>EHTTransmitterMeasurementsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex19058414</metadata>
+    <thumbnail>html/EHTTransmitterMeasurementsExample_04.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1650632707">ehtMeasurementSummary.m</file>
+    <file component="wlan" timestamp="1629205907">ehtPlotTxSpectralFlatness.m</file>
+    <file component="wlan" timestamp="1629205907">ehtSpectralMaskTest.m</file>
+    <file component="wlan" timestamp="1650632707">ehtTxEVMConstellationPlots.m</file>
+    <file component="wlan" timestamp="1650632707">evmSetup.m</file>
+    <file component="wlan" timestamp="1605602664">helperPlotPositions.m</file>
+  </demoitem>
+  <demoitem>
+    <source>MACFrameDecodingExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex19160630</metadata>
+    <thumbnail>data/MACFrameFormat.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1539938040">AMPDUDeaggregation.png</file>
+    <file component="wlan" timestamp="1539847104">MPDUDecoding.png</file>
+    <file component="wlan" timestamp="0">MACFrameFormat.png</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateS1GObjectForSingleUserExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex19412514</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTTransmitterMeasurementsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex19572979</metadata>
+    <thumbnail>html/VHTTransmitterMeasurementsExample_04.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1677773502">vhtTxEVMConstellationPlots.m</file>
+    <file component="wlan" timestamp="1538756816">vhtTxSetupPlots.m</file>
+    <file component="wlan" timestamp="1595515039">helperSpectralMaskTest.m</file>
+    <file component="wlan" timestamp="1538756172">vhtNoiseEstimate.m</file>
+    <file component="wlan" timestamp="1605602664">helperPlotPositions.m</file>
+    <file component="wlan" timestamp="1610689441">helperIQImbalanceEstimate.m</file>
+    <file component="wlan" timestamp="1610689441">vhtEVMSetup.m</file>
+    <file component="wlan" timestamp="1677773502">vhtTxPlotSpectralFlatness.m</file>
+  </demoitem>
+  <demoitem>
+    <source>PassS1GWaveformThroughTGahChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex19702476</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BPSKConstMapExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex19961950</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DeaggregateVHTAMPDUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex20041630</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CorrectCFOForVHTWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex20440494</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>SNRDefinitionUsedInEndtoEndSimulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex20697702</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateVHTSTFWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex21100913</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetOFDMInformationFromEHTMUWaveformUsingOversamplingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex21453089</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateChannelWithLLTFAndRecoverVHTSIGAExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex21665053</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverNonHTDataInFadingChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex21958949</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WlanGolaySeqExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex22008157</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetRUInformationForHEConfigObjectsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex22600891</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverSingleUserHEPacketDataInAWGNExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex22719480</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheNonHTLLTFAndReturnOFDMInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex22885647</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ChannelEstimationUsingPreEHTFieldsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex23043013</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DecodeHESUMPDUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex23397738</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANPacketWithoutRadiotapToPcapngFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex23652982</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANUplinkOFDMASystemSimulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex23771431</metadata>
+    <thumbnail>data/ULOFDMAExampleFig_Thumbnail.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+    <file component="wlan" timestamp="1674147877">hSLSTGaxAbstractSystemChannel.m</file>
+    <file component="wlan" timestamp="1682622868">hSLSTGaxMultiFrequencySystemChannel.m</file>
+    <file component="wlan" timestamp="1682622868">hSLSTGaxSystemChannel.m</file>
+    <file component="wlan" timestamp="1674147877">hSLSTGaxSystemChannelBase.m</file>
+    <file component="wlan" timestamp="1682622868">hCheckWLANNodesConfiguration.m</file>
+    <file component="wlan" timestamp="1689680372">hCompareOFDMvsULOFDMAThroughputs.m</file>
+    <file component="wlan" timestamp="1682696816">ULOFDMAExampleFig_Thumbnail.png</file>
+    <file component="wlan" timestamp="1689617983">hPlotPacketTransitions.m</file>
+    <file component="wlan" timestamp="1689617983">hVisualizePerformance.m</file>
+  </demoitem>
+  <demoitem>
+    <source>VHTWaveformGenerationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24074867</metadata>
+    <thumbnail>html/VHTWaveformGenerationExample_06.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>AppBasedWLANWaveformGenerationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24143439</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetPSDULengthForEHTTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24165755</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TimingAndPhaseTrackingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24543093</metadata>
+    <thumbnail>html/TimingAndPhaseTrackingExample_02.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="repository/spc" timestamp="1689104507">trackingRecoveryConfig.m</file>
+    <file component="repository/spc" timestamp="1689104507">trackingVHTDataRecover.m</file>
+    <file component="repository/spc" timestamp="1689104507">trackingOFDMDemodulate.m</file>
+    <file component="repository/spc" timestamp="1689104507">trackingHTDataRecover.m</file>
+    <file component="repository/spc" timestamp="1689104507">trackingNonHTDataRecover.m</file>
+    <file component="wlan" timestamp="1624362418">trackingPlotSCOCFOEstimates.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverInformationBitsInLSIGFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex24734064</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateVHTPacketSymbolTimingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex25110365</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EHTParameterizationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex25740223</metadata>
+    <thumbnail>html/EHTParameterizationExample_06.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnCharacteristicInformationOfWLANTGayChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex26033646</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>NonHTInterleavingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex26539833</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BasicVHTDataRecoveryExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex26572207</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1449587782">vht_basic_data_recovery_flow.png</file>
+    <file component="wlan" timestamp="1449587782">vht_cfo_data_recovery_flow.png</file>
+  </demoitem>
+  <demoitem>
+    <source>TransmitVHTWaveformThroughTGacChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex26765290</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemapExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex26970463</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TransmitVHTWaveformThrough4x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex27188110</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>S1GWaveformGenerationExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex27396993</metadata>
+    <thumbnail>html/S1GWaveformGenerationExample_05.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">s1gWavGenPlotGrid.m</file>
+    <file component="wlan" timestamp="0">s1gWavGenPlotSIGB.m</file>
+    <file component="wlan" timestamp="0">s1gWavGenPlotFieldOverlay.m</file>
+  </demoitem>
+  <demoitem>
+    <source>PositioningWith80211azFingerprintingAndDeepLearningExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex27427131</metadata>
+    <thumbnail>html/PositioningWith80211azFingerprintingAndDeepLearningExample_04.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>nnet</product>
+    <file component="wlan" timestamp="1591604051">heRangingConfig.m</file>
+    <file component="wlan" timestamp="1617266907">heRangingDemodulate.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingFieldIndices.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingLTF.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingLTFInfo.m</file>
+    <file component="wlan" timestamp="1606759895">heRangingSynchronize.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingUser.m</file>
+    <file component="wlan" timestamp="1686763622">dlPositioningCreateEnvironment.m</file>
+    <file component="wlan" timestamp="1605627227">dlPositioningGenerateDataSet.m</file>
+    <file component="wlan" timestamp="1605627227">dlPositioningGeneratePositions.m</file>
+    <file component="wlan" timestamp="1605627227">dlPositioningPlotResults.m</file>
+    <file component="wlan" timestamp="1605627227">dlPositioningSplitDataSet.m</file>
+    <file component="wlan" timestamp="1686763622">helperChannelImpulseResponse.m</file>
+    <file component="wlan" timestamp="1605627227">office.stl</file>
+    <file component="wlan" timestamp="1591633383">heRangingWaveformGenerator.m</file>
+    <file component="wlan" timestamp="1591604051">heSecureLTFSequence.m</file>
+    <file component="wlan" timestamp="1592405890">heLTFRangingChannelEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DecodeMultiUserHEDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex27670995</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>AxChannelImpulseResponseExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex27854947</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EqualizeUSIGSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex28198995</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BCCDecodeTwoEncodedStreamsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex28228864</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CalculateClosestReferenceSymbolsFor64QAMExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex28587911</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateOversampledMultiUserWURWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex28775354</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HardDemapExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex29038696</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HESignalRecoveryExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex29061624</metadata>
+    <thumbnail>html/HESignalRecoveryExample_02.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="repository/spc" timestamp="1689104507">heSIGBCommonFieldDecode.m</file>
+    <file component="repository/spc" timestamp="1689104507">heSIGBUserFieldDecode.m</file>
+    <file component="wlan" timestamp="1588091505">helperPlotPositions.m</file>
+    <file component="repository/spc" timestamp="1689104507">trackingRecoveryConfig.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEQConstellation.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSubcarrier.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSymbol.m</file>
+    <file component="wlan" timestamp="1683799044">helperSigRecGenerateWaveform.m</file>
+    <file component="wlan" timestamp="1683301542">helperSigRecSetupPlots.m</file>
+    <file component="repository/spc" timestamp="1689104507">helperTrackingOFDMDemodulate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateEHTSIGFieldAndExtractDataAndPilotSubcarriersExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex29175346</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BCCencodingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex29192170</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteUserDefinedCustomBlockToPCAPNGFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex30193332</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANSystemLevelSimulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex31316701</metadata>
+    <thumbnail>data/WLANSystemLevelSimulationExample_thumbnail.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+    <file component="wlan" timestamp="1683740347">hSLSTGaxAbstractSystemChannel.m</file>
+    <file component="wlan" timestamp="1683740347">hSLSTGaxMultiFrequencySystemChannel.m</file>
+    <file component="wlan" timestamp="1683740347">hSLSTGaxSystemChannel.m</file>
+    <file component="wlan" timestamp="1683813065">hSLSTGaxSystemChannelBase.m</file>
+    <file component="wlan" timestamp="1690303362">hExportWLANPackets.m</file>
+    <file component="wlan" timestamp="1681924121">hCheckWLANNodesConfiguration.m</file>
+    <file component="wlan" timestamp="1681924121">WLANSystemLevelSimulationExample_thumbnail.png</file>
+    <file component="wlan" timestamp="1690204837">hPlotPacketTransitions.m</file>
+    <file component="wlan" timestamp="1690303362">hVisualizePerformance.m</file>
+    <file component="wlan" timestamp="1690303362">hCaptureIQSamples.m</file>
+  </demoitem>
+  <demoitem>
+    <source>EstimateMIMOChannelUsingHTLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex31620817</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHTSIGUsingZeroForcingEqualizerExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex31858887</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetOFDMInformationForRUsInEHTMUConfigurationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex31992134</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHTDataFrom2x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex32491584</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHESIGAInformationBitsWithChannelStateInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex32909425</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ChannelEstimationUsingHELTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex33240487</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DelayProfileAndFluorescentLightingEffectsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex33315137</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateHTConfigurationObjectWithDefaultSettingsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex33447080</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EHTUplinkTBExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex33502752</metadata>
+    <thumbnail>data/EHTTBPER.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1667484798">EHTMMSESICEqualization.png</file>
+    <file component="wlan" timestamp="1667328232">EHTTBPER.png</file>
+    <file component="wlan" timestamp="1667484798">ehtTBRU.m</file>
+    <file component="wlan" timestamp="1667328232">ehtMUTBProcessing.png</file>
+    <file component="wlan" timestamp="1667379738">ehtTBSystemConfig.m</file>
+    <file component="wlan" timestamp="1667379738">ehtTBUser.m</file>
+    <file component="wlan" timestamp="1667379738">heSuccessiveEqualize.m</file>
+    <file component="wlan" timestamp="0">heMUTBScenario.png</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTDataFieldAndCalculateAmplitudeErrorExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex33593049</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheS1GDataFieldForASpecifiedOFDMSymbolOffsetExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex33799018</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DetectDelayed80211aPacketExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex34003767</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateEHTRecoveryConfigurationObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex34793454</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>PlotANoisyQPSKConstellationWithReferencePointsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex35376779</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheHTLLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex35617429</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ExtractRateInformationfromLSIGExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex35814887</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateAndParseWLANMACFramesExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex36594739</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HERFReceiverNRInterfererExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HERFReceiverNRInterfererExample.html</file>
+    <metadata>ex36968728</metadata>
+    <thumbnail>html/HERFReceiverNRInterfererExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>simulink</product>
+    <product>simrf</product>
+    <product>5g</product>
+    <file component="wlan" open="open" timestamp="1667417376">HERFReceiverNRInterfererModel.slx</file>
+    <file component="wlan" timestamp="1683813479">heDecodeWaveform.m</file>
+    <file component="wlan" timestamp="1667417376">heInitializeModel.m</file>
+    <file component="wlan" timestamp="1605602664">heRFReceiverADCIcon.png</file>
+    <file component="wlan" timestamp="1607101096">heRFReceiverADCMask.png</file>
+    <file component="wlan" timestamp="1622829949">heRFReceiverHEWaveformMask.png</file>
+    <file component="wlan" timestamp="1605602664">heRFReceiverIcon.png</file>
+    <file component="wlan" timestamp="1605602664">heRFReceiverMask.png</file>
+    <file component="wlan" timestamp="1622829949">heRFReceiverNRWaveformMask.png</file>
+    <file component="wlan" timestamp="1605602664">heRFReceiverResampleFIRMask.png</file>
+    <file component="wlan" timestamp="1605602664">helperPlotPositions.m</file>
+    <file component="wlan" timestamp="1607101096">heRFReceiverPowerMeterIcon.png</file>
+    <file component="wlan" timestamp="1622829949">heGetPSDUForAllPackets.m</file>
+    <file component="wlan" timestamp="1683301542">helperSigRecSetupPlots.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSubcarrier.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSymbol.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WlanS1GpacketFormatExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex37217655</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheLLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex37238004</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverDMGHeaderOFDMExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex37635924</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DeparseSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex37768799</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateVHTLTFWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex37775828</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTPacketRecoveryExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex38028595</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateNoisePowerOfResourceUnitInEHTMUTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex38243213</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateMultiUserHEObjectUsingBinaryAllocationIndexingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex39025095</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>AddInformationElementToManagementConfigurationObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex39604840</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HERangingPositioningExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex39727949</metadata>
+    <thumbnail>html/HERangingPositioningExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1606758522">heDelaySignal.m</file>
+    <file component="wlan" timestamp="1606759895">heRangingSynchronize.m</file>
+    <file component="wlan" timestamp="1592405890">heRangingDemodulate.m</file>
+    <file component="wlan" timestamp="1606758522">hePositionEstimate.m</file>
+    <file component="wlan" timestamp="1592405890">heLTFRangingChannelEstimate.m</file>
+    <file component="wlan" timestamp="1606758522">heGeneratePositions.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingConfig.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingFieldIndices.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingLTF.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingLTFInfo.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingUser.m</file>
+    <file component="wlan" timestamp="1591633383">heRangingWaveformGenerator.m</file>
+    <file component="wlan" timestamp="1591604051">heSecureLTFSequence.m</file>
+    <file component="wlan" timestamp="1594967982">heRangingPlotPositions.m</file>
+    <file component="wlan" timestamp="1606758522">heRangingPlotDelayProfile.m</file>
+    <file component="wlan" timestamp="1606758522">heRangingTOAEstimate.m</file>
+    <file component="wlan" timestamp="1606758522">heRangingCorrelationMatrixEstimate.m</file>
+    <file component="wlan" timestamp="1607023768">hePlotErrorCDF.m</file>
+    <file component="wlan" timestamp="1606758522">hePlotTrilaterationCircles.m</file>
+    <file component="wlan" timestamp="1606758522">hePlotNodePositions.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateEHTSIGFieldWithOversamplingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex40056190</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>NonHTDeinterleavingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex40260156</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>MACFrameGenerationExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex41447595</metadata>
+    <thumbnail>data/MACBeaconFrame.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">MACFrameGeneration.png</file>
+    <file component="wlan" timestamp="0">MACFrameFormat.png</file>
+    <file component="wlan" timestamp="0">MACRTSFrame.png</file>
+    <file component="wlan" timestamp="0">MACQoSDataFrame.png</file>
+    <file component="wlan" timestamp="0">MACBeaconFrame.png</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateHTShortTrainingFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex41606650</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DecodeMPDUsExtractedFromAnAMPDUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex41691217</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHEDataFieldFromHETBPacketInAWGNChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex41842183</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TransmitHTWaveformThroughTGnChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex41914574</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateAWaveformUsingCustomizedWaveformGeneratorObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex42381481</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HTPacketRecoveryExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43138859</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>Create3x3URAExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43300109</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverNonHTDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43605952</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheS1GDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex43923575</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>SampleRateForOversampledHETBTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex45308511</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverInformationBitsInHESIGAFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex45448574</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANMultiNodeAbstractedPHYExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WLANMultiNodeAbstractedPHYExample.html</file>
+    <metadata>ex45510948</metadata>
+    <thumbnail>data/AbstractedVsFullPHYTimePlot.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>simevents</product>
+    <product>simulink</product>
+    <product>stateflow</product>
+    <file component="wlan" timestamp="1562663569">AbstractedPHYNetworkStatsBar.png</file>
+    <file component="wlan" timestamp="1563379985">AbstractedVsFullPHYTimePlot.png</file>
+    <file component="wlan" open="open" timestamp="1665757984">WLANMultiNodeAbstractedPHYModel.slx</file>
+    <file component="wlan" timestamp="1563379985">channelBlock.m</file>
+    <file component="wlan" timestamp="1592329190">phyRxAbstracted.m</file>
+    <file component="wlan" timestamp="1592329190">phyTxAbstracted.m</file>
+    <file component="wlan" timestamp="1610123643">calculateSINR.m</file>
+    <file component="wlan" timestamp="1563379985">AbsPHYSampleNetworkAnalysis.png</file>
+    <file component="wlan" timestamp="1563430356">hCreateWLANNetworkModel.m</file>
+    <file component="wlan" timestamp="1562663569">hDisplayNetworkStats.m</file>
+    <file component="wlan" timestamp="1609946609">tgaxLinkPerformanceModel.m</file>
+    <file component="wlan" timestamp="1561987820">channelIndex.m</file>
+    <file component="wlan" timestamp="1573137007">channelSubcarrierIndices.m</file>
+    <file component="wlan" timestamp="1610643173">generateChannels.m</file>
+    <file component="wlan" timestamp="1609946609">tgaxMMSEFilter.m</file>
+    <file component="wlan" timestamp="1576749924">helperPerfectChannelEstimate.m</file>
+    <file component="wlan" timestamp="1610123643">getPrecodingMatrix.m</file>
+    <file component="wlan" timestamp="1609946609">tgax_mw_awgn.mat</file>
+    <file component="wlan" timestamp="1609946609">tgax_rbit.mat</file>
+    <file component="wlan" timestamp="1592297276">dcfAssignNodeIDs.m</file>
+    <file component="wlan" timestamp="1589356586">states.png</file>
+    <file component="wlan" timestamp="1589356586">dcfGetNodeNamesList.m</file>
+    <file component="wlan" timestamp="1589356586">edcaFrameFormats.m</file>
+    <file component="wlan" timestamp="1589356586">edcaNodeInfo.m</file>
+    <file component="wlan" timestamp="1589356586">edcaPlotQueueLengths.m</file>
+    <file component="wlan" timestamp="1589356586">helperAggregateMPDUs.m</file>
+    <file component="wlan" timestamp="1589356586">helperSubframeBoundaries.m</file>
+    <file component="wlan" timestamp="1594745229">macConfiguration.mat</file>
+    <file component="wlan" timestamp="1589356586">PhyPrimitives.m</file>
+    <file component="wlan" timestamp="1561987820">AbstractedPHYNetwork.png</file>
+    <file component="wlan" timestamp="1563379985">AbstractedPHYNode.png</file>
+    <file component="wlan" timestamp="1563379985">ChannelBlock.png</file>
+    <file component="wlan" timestamp="1563379985">PHYRxAbstracted.png</file>
+    <file component="wlan" timestamp="1563379985">PHYTxAbstracted.png</file>
+    <file component="wlan" timestamp="1589356586">edcaLogLatencies.m</file>
+    <file component="wlan" timestamp="1591433405">wlanAbstractedPHYDataTypes.mat</file>
+    <file component="wlan" timestamp="1592329190">wlanAbstractedPHYLib.slx</file>
+    <file component="wlan" timestamp="1591433405">wlanMACAndHigherLayersDataTypes.mat</file>
+    <file component="wlan" timestamp="1563379985">hSetupAbstractChannel.m</file>
+    <file component="wlan" timestamp="1592329190">wlanSystemLevelComponentsLib.slx</file>
+    <file component="wlan" timestamp="1592329190">edcaStats.m</file>
+    <file component="wlan" timestamp="1589356586">edcaPlotStats.m</file>
+    <file component="wlan" timestamp="1589356586">edcaUpdateStats.m</file>
+    <file component="wlan" timestamp="1594215564">wlanMACAndHigherLayersLib.slx</file>
+    <file component="wlan" timestamp="1576764036">createRadiotapHeader.m</file>
+    <file component="wlan" timestamp="1625934842">pcapDump.m</file>
+    <file component="wlan" timestamp="1576764036">pcapDump.png</file>
+    <file component="wlan" timestamp="1594204897">pcapMAC.png</file>
+    <file component="wlan" timestamp="1594206744">pcapMaskParams.png</file>
+    <file component="wlan" timestamp="1589356586">addMUPadding.m</file>
+    <file component="wlan" timestamp="1589356586">macQueueManagement.m</file>
+    <file component="wlan" timestamp="1589356586">calculateSubframesCount.m</file>
+    <file component="wlan" timestamp="1589356586">rateAdaptationARF.m</file>
+    <file component="wlan" timestamp="1589356586">rateAdaptationMinstrelNonHT.m</file>
+    <file component="wlan" timestamp="1589356586">roundRobinScheduler.m</file>
+    <file component="wlan" timestamp="1594713071">constantOBSSPDAlgorithm.m</file>
+    <file component="wlan" timestamp="1594713071">obssPDAlgorithm.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverBitsFromEHTDataFieldFromEHTTBTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex45561651</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>SegmentParseSequenceExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex45756848</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HEParameterizationExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex46331616</metadata>
+    <thumbnail>html/HEParameterizationExample_06.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">heParameterization.png</file>
+    <file component="wlan" timestamp="0">heRUUserLink.png</file>
+    <file component="wlan" timestamp="0">heRUUserLinkMU.png</file>
+    <file component="wlan" timestamp="0">heMUParameterizationTable1.png</file>
+    <file component="wlan" timestamp="0">heMUParameterizationTable2.png</file>
+    <file component="wlan" timestamp="0">heParameterizationAllocationTable.png</file>
+    <file component="wlan" timestamp="0">heParameterizationGT242AllocationTable.png</file>
+    <file component="wlan" timestamp="1594720684">hePlotHESIGBAllocationMapping.m</file>
+    <file component="wlan" timestamp="1566557431">heRUAllocationTable.m</file>
+  </demoitem>
+  <demoitem>
+    <source>V2VReceiverExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex47041411</metadata>
+    <thumbnail>data/V2VPERresultsUrbanNLOS.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">nonHTPERSchematicChanTracking.png</file>
+    <file component="wlan" timestamp="0">V2VPERresultsUrbanNLOS.png</file>
+    <file component="wlan" timestamp="0">V2VChannel.m</file>
+    <file component="wlan" timestamp="1571665341">v2vPERSimulator.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverInformationBitsInHESIGBUserFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex47567005</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheDMGDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex47903108</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverInformationBitsInHESIGBCommonFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex47912583</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANMACThroughputMeasurementExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/WLANMACThroughputMeasurementExample.html</file>
+    <metadata>ex47915757</metadata>
+    <thumbnail>data/test1a_MCS0.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>simevents</product>
+    <product>stateflow</product>
+    <product>simulink</product>
+    <file component="wlan" open="open" timestamp="1665762013">WLANMACThroughputMeasurementModel.slx</file>
+    <file component="wlan" timestamp="1589356586">edcaFrameFormats.m</file>
+    <file component="wlan" timestamp="1589356586">edcaNodeInfo.m</file>
+    <file component="wlan" timestamp="1589356586">edcaPlotQueueLengths.m</file>
+    <file component="wlan" timestamp="1589356586">edcaPlotStats.m</file>
+    <file component="wlan" timestamp="1589356586">edcaUpdateStats.m</file>
+    <file component="wlan" timestamp="1589356586">helperAggregateMPDUs.m</file>
+    <file component="wlan" timestamp="1589356586">helperSubframeBoundaries.m</file>
+    <file component="wlan" timestamp="1640780823">macConfiguration.mat</file>
+    <file component="wlan" timestamp="1589356586">phyRx.m</file>
+    <file component="wlan" timestamp="1589356586">phyTx.m</file>
+    <file component="wlan" timestamp="1640732268">macConf.png</file>
+    <file component="wlan" timestamp="1563374601">networkStats.png</file>
+    <file component="wlan" timestamp="1563374601">queueLengths.png</file>
+    <file component="wlan" timestamp="1589356586">states.png</file>
+    <file component="wlan" timestamp="1559195434">test1a_MCS0.png</file>
+    <file component="wlan" timestamp="1559195434">test1a_MCS8.png</file>
+    <file component="wlan" timestamp="1559195434">test1b_MCS0.png</file>
+    <file component="wlan" timestamp="1559195434">test1b_MCS8.png</file>
+    <file component="wlan" timestamp="1559195434">test2a_withRTS.png</file>
+    <file component="wlan" timestamp="1559195434">test2a_withoutRTS.png</file>
+    <file component="wlan" timestamp="1559195434">throughputVsPacketSize.png</file>
+    <file component="wlan" timestamp="1589356586">wlanNetwork.png</file>
+    <file component="wlan" timestamp="1562584572">wlanNode.png</file>
+    <file component="wlan" timestamp="1592297276">dcfAssignNodeIDs.m</file>
+    <file component="wlan" timestamp="1589356586">dcfGetNodeNamesList.m</file>
+    <file component="wlan" timestamp="1589356586">PhyPrimitives.m</file>
+    <file component="wlan" timestamp="1589356586">dcfDisplayStats.m</file>
+    <file component="wlan" timestamp="1589356586">edcaLogLatencies.m</file>
+    <file component="wlan" timestamp="1591623941">wlanFullPHYDataTypes.mat</file>
+    <file component="wlan" timestamp="1592329190">wlanFullPHYLib.slx</file>
+    <file component="wlan" timestamp="1591433405">wlanMACAndHigherLayersDataTypes.mat</file>
+    <file component="wlan" timestamp="1672314176">wlanMACAndHigherLayersLib.slx</file>
+    <file component="wlan" timestamp="1592329190">wlanSystemLevelComponentsLib.slx</file>
+    <file component="wlan" timestamp="1592329190">edcaStats.m</file>
+    <file component="wlan" timestamp="1589356586">rateAdaptationARF.m</file>
+    <file component="wlan" timestamp="1589356586">rateAdaptationMinstrelNonHT.m</file>
+    <file component="wlan" timestamp="1589356586">edcaApplyFading.m</file>
+    <file component="wlan" timestamp="1589356586">addMUPadding.m</file>
+    <file component="wlan" timestamp="1589356586">calculateSubframesCount.m</file>
+    <file component="repository/spc" timestamp="1689104507">heSIGBCommonFieldDecode.m</file>
+    <file component="repository/spc" timestamp="1689104507">heSIGBUserFieldDecode.m</file>
+    <file component="wlan" timestamp="1589356586">interpretVHTSIGABitsFailCheck.m</file>
+    <file component="wlan" timestamp="1589356586">macQueueManagement.m</file>
+    <file component="wlan" timestamp="1589356586">roundRobinScheduler.m</file>
+    <file component="wlan" timestamp="1594713071">constantOBSSPDAlgorithm.m</file>
+    <file component="wlan" timestamp="1594713071">obssPDAlgorithm.m</file>
+    <file component="wlan" timestamp="1665762013">statistics.mat</file>
+    <file component="wlan" timestamp="1640732268">channelConf.png</file>
+    <file component="wlan" timestamp="1640732268">phyRxConf.png</file>
+    <file component="wlan" timestamp="1640732268">phyTxConf.png</file>
+    <file component="wlan" timestamp="1640714957">appConfTE.png</file>
+  </demoitem>
+  <demoitem>
+    <source>CreateConfigureAndSimulateWirelessLocalAreaNetworkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex48006865</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteInterfaceDescriptionBlockToPCAPNGFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex48918633</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>SegmentDeparseBitExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex48922896</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateWlanHESUConfigObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex49686227</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ExtractVHTWaveformPPDUFieldsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex50128343</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HEUplinkTBFeedbackNDPExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex50170189</metadata>
+    <thumbnail>html/HEUplinkTBFeedbackNDPExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1602749138">heTBNDPMappingParams.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DetectHTPacketAndSetThresholdWhenEstimatingSymbolTimingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex50187997</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DetectHESUFormatWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51109462</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTSIGBUsingZeroForcingEqualizerExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51487523</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANMACFrameToPcapFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51673887</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DetectHTPacketAndEstimateSymbolTimingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51736195</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateBasicMACTriggerFrameExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51745213</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>Filter80211adWaveformThroughTGayChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51745950</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ShowRUAllocationInHEMUTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex51836127</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHeaderBitsFromDMGSCTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52102831</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateMultiUserVHTWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52430934</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANSensingWithDeepLearningExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52861342</metadata>
+    <thumbnail>html/WLANSensingWithDeepLearningExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>nnet</product>
+    <product>plutoradio</product>
+    <product>usrpradio</product>
+    <product>xilinxzynqbasedradio</product>
+    <product>usrpembeddedseriesradio</product>
+    <file component="repository/spc" timestamp="1689104507">recoverPreamble.m</file>
+    <file component="wlan" timestamp="1671802101">trainValTestSplit.m</file>
+    <file component="wlan" timestamp="1683212283">captureCSI.m</file>
+    <file component="wlan" timestamp="1674060532">livePresenceDetection.m</file>
+    <file component="wlan" timestamp="1673946061">testPresenceDetection.m</file>
+    <file component="wlan" timestamp="1674060532">csi2periodogram.m</file>
+    <file component="wlan" timestamp="1674060532">dataset-no-presence.mat</file>
+    <file component="wlan" timestamp="1674060532">dataset-presence.mat</file>
+    <file component="wlan" timestamp="1683212283">captureCSIDataset.m</file>
+    <file component="wlan" timestamp="1674060532">loadCSIDataset.m</file>
+    <file component="wlan" timestamp="1683212283">captureVisualizeCSI.m</file>
+    <file component="repository/spc" timestamp="1672245916">hSDRBase.m</file>
+    <file component="repository/spc" timestamp="1672245916">hSDRReceiver.m</file>
+  </demoitem>
+  <demoitem>
+    <source>BCCEncodeTwoStreamsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52910283</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ChannelEstimationUsingEHTLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex52934409</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateVHTSIGBWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex53166092</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateULAExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex53268203</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DisableAUserInAnHEMUTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex53344319</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheHELTFForRUsInAnHEMUWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex53641655</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TrackPilotErrorInHESUWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex53797705</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateVHTDataWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex54156894</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateNoisePowerUsingHEDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex54172483</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ExtractVHTLTFRecoverVHTDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex54746833</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateNoisePowerUsingEHTDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55311113</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ConstMapOFDMExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55351649</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DisplayOpenAreaHotspotEnvironmentExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55372391</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHTDataFieldAndCalculateAmplitudeErrorExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55410868</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateMultiUserHEObjectWithUpperCenter26ToneRUUsedExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55907497</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CalculateNumberOfPostFECPaddingBitsForHETransmissionsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55928522</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateWlanHESUConfigObjectForExtendedRangeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55955089</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WlanSampleRateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex55962769</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DetectVHTFormatWaveformAdjustingRecoveryAlgorithmExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex56210105</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>MIMOChannelEstimationUsingHELTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex56290642</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TransmitRateControlExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex56341715</metadata>
+    <thumbnail>html/TransmitRateControlExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">RCAschematic.png</file>
+    <file component="wlan" timestamp="0">vhtNoiseEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WriteGlobalHeaderToAPcapFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex57915192</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTMIMOPacketErrorRateExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex58793731</metadata>
+    <thumbnail>data/VHTMIMOPERExample.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">VHTMIMOPERDiagram.png</file>
+    <file component="wlan" timestamp="1652801899">VHTMIMOPERExample.png</file>
+    <file component="wlan" timestamp="1538756172">vhtNoiseEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverUSIGInformationBitsWithChannelStateInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex58810500</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetOFDMInformationFromEHTLTFFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59101788</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverFeedbackStatusFromHETBFeedbackNDPExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59148924</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HEUplinkTBExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex59249585</metadata>
+    <thumbnail>data/HETBPER.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">heMUTBScenario.png</file>
+    <file component="wlan" timestamp="0">heMUTBProcessing.png</file>
+    <file component="wlan" timestamp="1652802822">HETBPER.png</file>
+    <file component="wlan" timestamp="1570544910">MMSESICEqualization.png</file>
+    <file component="wlan" timestamp="1576155876">heSuccessiveEqualize.m</file>
+    <file component="wlan" timestamp="1572542936">heTBRU.m</file>
+    <file component="wlan" timestamp="1673358087">heTBSystemConfig.m</file>
+    <file component="wlan" timestamp="1572542936">heTBUser.m</file>
+  </demoitem>
+  <demoitem>
+    <source>CalculateNumberOfPostFECPaddingBitsForEHTTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59303627</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverNonHTDataFieldSignalusingZeroForcingAlgorithmExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59838475</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateNoisePowerOfResourceUnitInHEMUTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex59886160</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HERangingWaveformGenerationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex60004605</metadata>
+    <thumbnail>html/HERangingWaveformGenerationExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1649339926">heRangingConfig.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingFieldIndices.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingLTF.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingLTFInfo.m</file>
+    <file component="wlan" timestamp="1591604051">heRangingUser.m</file>
+    <file component="wlan" timestamp="1615286269">heRangingWaveformGenerator.m</file>
+    <file component="wlan" timestamp="1649339926">heRangingWavGenPlot.m</file>
+    <file component="wlan" timestamp="1591604051">heSecureLTFSequence.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverLSIGwithZeroForcingEqualizerAlgorithmExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex60214566</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EqualizeHEDataSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex60752691</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DMGSCPHYPacketErrorRateExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex60986419</metadata>
+    <thumbnail>data/dmgSCPER.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1541010965">dmgSCPHY.png</file>
+    <file component="wlan" timestamp="1541010965">dmgSCPER.png</file>
+    <file component="wlan" timestamp="1541010965">dmgCFOEstimate.m</file>
+    <file component="wlan" timestamp="1541010965">dmgSingleCarrierFDE.m</file>
+    <file component="wlan" timestamp="1544718534">dmgUniqueWordPhaseTracking.m</file>
+    <file component="wlan" timestamp="1544543685">dmgPacketDetect.m</file>
+    <file component="wlan" timestamp="1538581917">dmgTimingAndChannelEstimate.m</file>
+    <file component="wlan" timestamp="1541010965">dmgSTFNoiseEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>WLANChannelModelsExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex61136599</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverDMGControlExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex61452932</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTSIGAInformationBitsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex62436065</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateEHTLTFAndEHTDataFieldsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex62681041</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateWLANPacketDescisionStatisticsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63032826</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HTLinkModelWLANExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HTLinkModelWLANExample.html</file>
+    <metadata>ex63221912</metadata>
+    <thumbnail>html/HTLinkModelWLANExample_01.png</thumbnail>
+    <hideCode/>
+    <product>matlab</product>
+    <product>simulink</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1551783404" open="open">HTLinkModelWLANModel.slx</file>
+    <file component="wlan" timestamp="1558357794">HTLinkModelWLANExample_params.m</file>
+    <file component="wlan" timestamp="1538995938">htNoiseEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>HERFTransmitterExample</source>
+    <type>model</type>
+    <extension>m</extension>
+    <file>html/HERFTransmitterExample.html</file>
+    <metadata>ex63477924</metadata>
+    <thumbnail>html/HERFTransmitterExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>simrf</product>
+    <product>simulink</product>
+    <file component="wlan" open="open" timestamp="1667406133">HERFTransmitterModel.slx</file>
+    <file component="wlan" timestamp="1622739428">heDecodeWaveform.m</file>
+    <file component="wlan" timestamp="1667406133">heInitializeModel.m</file>
+    <file component="wlan" timestamp="1590138956">hePlotHPACurve.m</file>
+    <file component="wlan" timestamp="1621510725">heRFTransmitterIcon.png</file>
+    <file component="wlan" timestamp="1590584051">heRFTransmitterMask.png</file>
+    <file component="wlan" timestamp="1588091505">helperPlotPositions.m</file>
+    <file component="wlan" timestamp="1621510725">heRFTransmitterWaveformMask.png</file>
+    <file component="wlan" timestamp="1589791462">heRFTransmitterPowerMeterIcon.png</file>
+    <file component="wlan" timestamp="1594313215">heRFTransmitterResampleFIRMask.png</file>
+    <file component="wlan" timestamp="1683301542">helperSigRecSetupPlots.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSymbol.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSubcarrier.m</file>
+    <file component="wlan" timestamp="1683734078">helperSigRecGenerateWaveform.m</file>
+  </demoitem>
+  <demoitem>
+    <source>EstimateSymbolTimingOfTGnImpairedHTWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63628921</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DisplayMCSInformationfromHTSIGExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63634463</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTSIGBin2x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63769642</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHTSIGin2x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex63989812</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TGahChannelDelayProfileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex64089104</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverDMGSCPHYExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex64140573</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnHESIGBInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex64299942</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>FilterDualPolarizedSignalThrough80211ayChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex64778205</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverTheHEDataFieldForAnHESUPacketExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex64928449</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateEHTNonOFDMAConfigurationObjectWithPuncturingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex65025814</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANMACPacketToPCAPNGFileUsingPCAPFileWriterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex65336643</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateConfigureAndSimulateWirelessMeshNetworkExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex65399783</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+  </demoitem>
+  <demoitem>
+    <source>DisplayIEsMACManagementExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex65645971</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>MACManagementConfigurationForBeaconFrameWithSSIDExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex65669522</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheDMGDataFieldForASpecifiedOFDMSymbolOffsetExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex65731551</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTDataFieldSignalExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex65916843</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANSpatialReuseWithBSSColoringExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex66277174</metadata>
+    <thumbnail>html/WLANSpatialReuseWithBSSColoringExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+    <file component="wlan" timestamp="1670344847">hSLSTGaxAbstractSystemChannel.m</file>
+    <file component="wlan" timestamp="1670344847">hSLSTGaxMultiFrequencySystemChannel.m</file>
+    <file component="wlan" timestamp="1670344847">hSLSTGaxSystemChannel.m</file>
+    <file component="wlan" timestamp="1670344847">hSLSTGaxSystemChannelBase.m</file>
+    <file component="wlan" timestamp="1670344847">hCheckWLANNodesConfiguration.m</file>
+    <file component="wlan" timestamp="1673262893">hVisualizeNodePositions.m</file>
+    <file component="wlan" timestamp="1689278191">hPlotPacketTransitions.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GetOrderSymbolExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex66977863</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverBandwidthSignaligFromInitialScramblerStateExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex66990899</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateAnHEMURecoveryObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex67543956</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>MIMOChannelEstimationUsingEHTLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex67613740</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateWLANWaveformsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex67738415</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EHTSUPacketErrorRateExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex67881191</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1623261426">EHTExamplePER.png</file>
+    <file component="wlan" timestamp="1623261426">EHTSUExampleDiagram.png</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTSIGAUsingZeroForcingEqualizerExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex67980883</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTInterleaveExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex68018760</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTBeamformingExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex68177953</metadata>
+    <thumbnail>html/VHTBeamformingExample_05.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">vhtBeamformingNoiseVariance.m</file>
+    <file component="wlan" timestamp="0">vhtBeamformingRemoveCSD.m</file>
+    <file component="wlan" timestamp="1571655602">vhtBeamformingPlotConstellation.m</file>
+    <file component="wlan" timestamp="0">helperSpatialExpansionMatrix.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHTDataFieldSignalExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex68320239</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverPSDUFromNonHTDataSignalExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex68328915</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANPacketDataToPCAPFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex68406654</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateEHTTBWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex68885864</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>StreamDeparseExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex68955417</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateHETBWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex69011328</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateNonHTFormatConfigurationObjectForDSSSModulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex69590613</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateMultiuserEHTOFDMAConfigurationObjectsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex69655323</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HESUExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex69854077</metadata>
+    <thumbnail>data/HESUExamplePER.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">HESUExampleDiagram.png</file>
+    <file component="wlan" timestamp="1652802523">HESUExamplePER.png</file>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANMACPacketToPCAPFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex70201037</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>MACManagementConfigurationForBeaconFrameExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex70222500</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>UpdateConfigurationOfWLANNodeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex70817734</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateSISOHTSIGWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex71255428</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateanHTLTFwithFourSpaceTimeStreamsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex71539948</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHTSIGInformationBitsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex71761103</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetPSDULengthForHEConfigObjectsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex72465588</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANMACPacketDataToPCAPFileUsingWLANPCAPWriterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex72479970</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateHTWaveformWithSpecifiedNumberOfDataSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex72604870</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetCompressionModeOfEHTTBConfigurationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex73063658</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TransmitHTWaveformThrough4x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex73580484</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>PHYAbstractionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex73963006</metadata>
+    <thumbnail>html/PHYAbstractionExample_10.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1557406712">tgaxCCA.m</file>
+    <file component="wlan" timestamp="1559137706">helperSpatialExpansionMatrix.m</file>
+    <file component="wlan" timestamp="1576234061">box0Simulation.m</file>
+    <file component="wlan" timestamp="1597765030">box2Simulation.m</file>
+    <file component="wlan" timestamp="1610123643">calculateSINR.m</file>
+    <file component="wlan" timestamp="1609946609">getBox0SimParams.m</file>
+    <file component="wlan" timestamp="1576749924">helperPerfectChannelEstimate.m</file>
+    <file component="wlan" timestamp="1571396410">plotPERvsEffectiveSNR.m</file>
+    <file component="wlan" timestamp="1571396410">plotPERvsSNR.m</file>
+    <file component="wlan" timestamp="1559142955">plotRBIR.m</file>
+    <file component="wlan" timestamp="1559142955">plotSINR.m</file>
+    <file component="wlan" timestamp="1561971223">tgaxCalibrationCDF.m</file>
+    <file component="wlan" timestamp="1560259645">tgaxCalibrationCurves.mat</file>
+    <file component="wlan" timestamp="1610639479">tgaxChannelManager.m</file>
+    <file component="wlan" timestamp="1609946609">tgaxLinkPerformanceModel.m</file>
+    <file component="wlan" timestamp="1609946609">tgaxMMSEFilter.m</file>
+    <file component="wlan" timestamp="1609946609">tgax_mw_awgn.mat</file>
+    <file component="wlan" timestamp="1609946609">tgax_rbit.mat</file>
+    <file component="wlan" timestamp="1588082752">tgaxDropNodes.m</file>
+    <file component="wlan" timestamp="1588082752">TGaxResidential.m</file>
+    <file component="wlan" timestamp="1610123643">getPrecodingMatrix.m</file>
+    <file component="wlan" timestamp="1610035545">heChannelToChannelEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateLLTFWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex73991399</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateCoarseCFONonHTWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex74200787</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateEHTNonOFDMAConfigurationObjectUsingDUPModeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex74531528</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateVHTSIGAWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex74697579</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTMUMIMOPrecodingExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex74950547</metadata>
+    <thumbnail>html/VHTMUMIMOPrecodingExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">vhtMUMIMODiagram.png</file>
+    <file component="wlan" timestamp="1634217158">vhtCSIFeedback.m</file>
+    <file component="wlan" timestamp="1538756172">vhtNoiseEstimate.m</file>
+    <file component="wlan" timestamp="0">vhtBeamformingRemoveCSD.m</file>
+  </demoitem>
+  <demoitem>
+    <source>InactivateRUForSecondUserInMultiUserHEExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex75447708</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverLSIGInformationBitsWithChannelStateInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex75768082</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateWlanHEMUConfigObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex75942238</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateSISOChannelUsingVHTLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex75944937</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EndtoEndVHTSimulationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex76110208</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnCharacteristicInformationOfWLANTGaxChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex76637420</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverEHTDataFieldUsingChannelStateInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex76769712</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateDataFieldSignalOfNonHTTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex76819046</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ExtractVHTSIGABandwidthInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex77058161</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreatewlanHTConfigObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex77144317</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DetectHTMFFormatWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex77206908</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TransmitS1GWaveformThrough4x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex77558389</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheVHTDataExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex77603139</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TrackPilotErrorInEHTMUWaveformUsingLSIGFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex78210295</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EHTSignalRecoveryExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex78681435</metadata>
+    <thumbnail>html/EHTSignalRecoveryExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1605602664">helperPlotPositions.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEQConstellation.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSubcarrier.m</file>
+    <file component="wlan" timestamp="1683301542">helperPlotEVMPerSymbol.m</file>
+    <file component="wlan" timestamp="1683301542">helperSigRecSetupPlots.m</file>
+    <file component="wlan" timestamp="1683301542">helperSigRecGenerateWaveform.m</file>
+    <file component="repository/spc" timestamp="1689104507">trackingRecoveryConfig.m</file>
+    <file component="wlan" timestamp="1683301542">helperDecodeMACFrame.m</file>
+    <file component="repository/spc" timestamp="1689104507">helperTrackingOFDMDemodulate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GenerateVHTWaveformWithSpecifiedTransmissionTimeExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex79071911</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>Estimate80MHzSISOChannelUsingLLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex79427297</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TGaxChannelPathGainsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex79501482</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteEnhancedProtocolPacketBlockToPCAPNGFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80509548</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WriteWLANMACPacketToPCAPNGFileExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80515836</metadata>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateSISOChannelUsingHTLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80589115</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateHESUWaveformWithSpecifiedNumberOfDataSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80775117</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CalculateNearestReferenceSymbolsDMGExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80921286</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>FineEstimateOfCFOFromEntirePacketExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex80980761</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANPHYFocusedSystemLevelSimulationExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex81110703</metadata>
+    <thumbnail>html/WLANPHYFocusedSystemLevelSimulationExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1588082752">TGaxResidential.m</file>
+    <file component="wlan" timestamp="1557406712">building.png</file>
+    <file component="wlan" timestamp="1557406712">tgaxBuildResidentialGrid.m</file>
+    <file component="wlan" timestamp="1557406712">tgaxCCA.m</file>
+    <file component="wlan" timestamp="1568719046">tgaxCCAPER.png</file>
+    <file component="wlan" timestamp="1588082752">tgaxDropNodes.m</file>
+    <file component="wlan" timestamp="1571395292">tgaxGenerateRxWaveforms.m</file>
+    <file component="wlan" timestamp="1557406712">tgaxLongTermCalibration.png</file>
+    <file component="wlan" timestamp="1557406712">tgaxModelPHYLink.m</file>
+    <file component="wlan" timestamp="1633104167">tgaxUpdatePlot.m</file>
+    <file component="wlan" timestamp="1561971223">tgaxCalibrationCDF.m</file>
+    <file component="wlan" timestamp="1560259645">tgaxCalibrationCurves.mat</file>
+  </demoitem>
+  <demoitem>
+    <source>BCCdecodeHardExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex81891377</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>SpectralEmissionMask10MHzExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex82224140</metadata>
+    <thumbnail>html/SpectralEmissionMask10MHzExample_02.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1595515039">helperSpectralMaskTest.m</file>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTSIGBInformationBitsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex82312129</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>QOSDataFrameWithSpecifiedPayloadExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex82933108</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTSIGAin2x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex83348968</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateNoisePowerUsingLLTFExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex84031446</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ObtainReferenceSymbolsWithCounterclockwiseRotationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex85307662</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>SegmentParse2BitsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex85574495</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TrackPilotPhaseErrorsInEHTMUWaveformForGivenRUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex85595633</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateLLTFforNonHTFormatTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex86637138</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>TwostepCFOEstimationAndCorrectionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex87956105</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>LLTFChannelEstimationAfterTGnChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex88079236</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>HECompressedBeamformingExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex88342691</metadata>
+    <thumbnail>data/HECompressedBeamformingExamplePER.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">HECompressedBeamformingExampleDiagram.png</file>
+    <file component="wlan" timestamp="1572946168">HECompressedBeamformingExamplePER.png</file>
+    <file component="wlan" timestamp="0">bfCompressQuantize.m</file>
+    <file component="wlan" timestamp="1636372616">heUserBeamformingFeedback.m</file>
+    <file component="wlan" timestamp="0">bfDecompress.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SDROFDMBeaconReceiverExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex88485112</metadata>
+    <thumbnail>html/SDROFDMBeaconReceiverExample_01.png</thumbnail>
+    <sandboxPublished/>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>plutoradio</product>
+    <product>usrpembeddedseriesradio</product>
+    <product>usrpradio</product>
+    <product>xilinxzynqbasedradio</product>
+    <file component="repository/spc" timestamp="1689089275">recoverPreamble.m</file>
+    <file component="wlan" timestamp="1689609519">capturedBeacons.mat</file>
+    <file component="repository/spc" timestamp="1689089275">hSDRBase.m</file>
+    <file component="repository/spc" timestamp="1689089275">hSDRReceiver.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheHESIGAFieldAndReturnOFDMInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex88655213</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>VHTSignalRecoveryExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex88813177</metadata>
+    <thumbnail>html/VHTSignalRecoveryExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="repository/spc" timestamp="1689104507">helperVHTConfigRecover.m</file>
+    <file component="wlan" timestamp="1556527505">vhtSigRecGenerateWaveform.m</file>
+    <file component="wlan" timestamp="1592851534">vhtSigRecSetupPlots.m</file>
+    <file component="wlan" timestamp="1538756172">vhtNoiseEstimate.m</file>
+    <file component="wlan" timestamp="0">vhtSigRecDisplaySIGAInfo.m</file>
+    <file component="repository/spc" timestamp="1689104507">helperInterpretSIGB.m</file>
+    <file component="wlan" timestamp="1588091505">helperPlotPositions.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DecodeNonHTMPDUExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex88851849</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverNonHTDataFieldAndCalculateAmplitudeErrorExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex88969170</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EqualizeEHTDataSymbolsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex89131368</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverVHTDataFrom2x2MIMOChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex89622477</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WLANResidentialScenarioExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91281574</metadata>
+    <thumbnail>html/WLANResidentialScenarioExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>wirelessnetwork</product>
+    <file component="wlan" timestamp="1674141245">hCreatePathlossTable.m</file>
+    <file component="wlan" timestamp="1674141245">hCreateSitesFromNodes.m</file>
+    <file component="wlan" timestamp="1674141245">hExportWLANPackets.m</file>
+    <file component="wlan" timestamp="1674141245">hGetIDsAndPositions.m</file>
+    <file component="wlan" timestamp="1674141245">hTGaxIndoorLinkInfo.m</file>
+    <file component="wlan" timestamp="1674141245">hTGaxResidentialPathLoss.m</file>
+    <file component="wlan" timestamp="1674141245">hTGaxResidentialTriangulation.m</file>
+    <file component="wlan" timestamp="1674141245">hVisualizeScenario.m</file>
+    <file component="wlan" timestamp="1684753141">hCheckWLANNodesConfiguration.m</file>
+    <file component="wlan" timestamp="1674141245">hSLSTGaxAbstractSystemChannel.m</file>
+    <file component="wlan" timestamp="1674141245">hSLSTGaxMultiFrequencySystemChannel.m</file>
+    <file component="wlan" timestamp="1674141245">hSLSTGaxSystemChannel.m</file>
+    <file component="wlan" timestamp="1674141245">hSLSTGaxSystemChannelBase.m</file>
+    <file component="wlan" timestamp="1689277827">hPlotPacketTransitions.m</file>
+    <file component="wlan" timestamp="1689277827">hVisualizePerformance.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateHTLTFinAWGNExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91568167</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateWlanDMGConfigObjectModifyingDefaultSettingsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91588980</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BeaconFrameWithSSIDExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex91801959</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GetBitOrderStreamParseExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex92009848</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateEHTMUWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex92405572</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverBitsFromEHTDataFieldFromEHTMUTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex92428749</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReturnOFDMInformationForTheNonHTDataFieldExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex92516036</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>OctetsQOSDataFrameExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex92924132</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateAnHESURecoveryObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex93383553</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EHTDownlinkThroughputExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex94226572</metadata>
+    <thumbnail>html/EHTDownlinkThroughputExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1651058536">ehtMUCalculateSteeringMatrix.m</file>
+    <file component="wlan" timestamp="1684420949">ehtMUSimulateScenario.m</file>
+    <file component="wlan" timestamp="1684420949">ehtUserBeamformingFeedback.m</file>
+  </demoitem>
+  <demoitem>
+    <source>GetActiveSubchannelIndicesOfWURTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex94257174</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateMIMOHTDataWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex94418255</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverDMGHeaderControlExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex94837698</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>EstimateSISOChannelUsingLLTFandSmoothingFilterExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex96274669</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverLSIGVHTSIGAVHTSIGBInFadingChannelExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex96535346</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>GenerateNonHTDataWaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex96615244</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ReceiverSensitivityTestExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex96648472</metadata>
+    <thumbnail>html/ReceiverSensitivityTestExample_01.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="0">VHTRxSensitivityMinimumTable.png</file>
+    <file component="wlan" timestamp="0">VHTRxSensitivityDiagram.png</file>
+    <file component="wlan" timestamp="1538756172">vhtNoiseEstimate.m</file>
+  </demoitem>
+  <demoitem>
+    <source>BCCdecodingsoftbitsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex96982751</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateLLTFforVHTFormatTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97537917</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverEHTDataFieldFromEHTSUTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97975578</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CalculateWLANChannelCenterFrequenciesExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex97993535</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>BeaconFrameGenerationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98039581</metadata>
+    <thumbnail>data/BeaconFrameGenerationIcon.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>xilinxzynqbasedradio</product>
+    <file component="wlan" timestamp="1538668351">BeaconFrameGenerationIcon.png</file>
+  </demoitem>
+  <demoitem>
+    <source>SDRImageTransmissionReceptionUsing80211WaveformExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98116226</metadata>
+    <thumbnail>html/SDRImageTransmissionReceptionUsing80211WaveformExample_07.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <product>plutoradio</product>
+    <product>usrpembeddedseriesradio</product>
+    <product>xilinxzynqbasedradio</product>
+    <file component="wlan" timestamp="1662120570">helperInterpretLSIG.m</file>
+  </demoitem>
+  <demoitem>
+    <source>SampleRateFor160MHzWLANTransmissionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98120265</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateDMGDataFieldAndReturnOFDMInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98260276</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>ChannelEstimationUsingPreHEFieldsExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98332281</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>UpdateHEMURecoveryConfigurationObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98416488</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateTheVHTLTFAndReturnOFDMInformationExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98603020</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateLLTFwithOFDMSymbolOffsetExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex98886672</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>WURTransmitterMeasurementsExample</source>
+    <type>M-file</type>
+    <extension>m</extension>
+    <metadata>ex99113408</metadata>
+    <thumbnail>html/WURTransmitterMeasurementsExample_03.png</thumbnail>
+    <product>matlab</product>
+    <product>wlan</product>
+    <file component="wlan" timestamp="1595515039">helperSpectralMaskTest.m</file>
+    <file component="wlan" timestamp="1622136872">WURExampleDiagram.png</file>
+    <file component="wlan" timestamp="1656085652">wurTxSpectralFlatnessMeasurement.m</file>
+  </demoitem>
+  <demoitem>
+    <source>DeaggregateHTAMPDUFrameExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex99179824</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>DemodulateaReceivedVHTLTFSignalExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex99185964</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateWlanDMGConfigObjectExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex99725955</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>CreateHESUConfigurationObjectForPacketExtensionExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex99773371</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+  <demoitem>
+    <source>RecoverHTDataFieldSignalusingZeroForcingAlgorithmExample</source>
+    <type>live</type>
+    <extension>mlx</extension>
+    <metadata>ex99803841</metadata>
+    <product>matlab</product>
+    <product>wlan</product>
+  </demoitem>
+</demos>

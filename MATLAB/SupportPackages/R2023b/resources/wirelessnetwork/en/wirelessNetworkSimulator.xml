@@ -1,0 +1,14 @@
+<?xml version="1.0"?>
+<!-- Copyright 2022 The MathWorks, Inc. -->
+<rsccat version="1.0" locale="en_US" product="wirelessnetwork">
+    <message>
+        <entry key="InvalidState">The init method must be called before any other simulator method and before creating the nodes.</entry>
+        <entry key="DynamicAddNodesNotSupported">Adding of nodes to the simulator during the simulation is not supported.</entry>
+        <entry key="InvalidNodeType">Invalid node type {0}.</entry>
+        <entry key="DuplicateNodeID">The node with ID ({0}) is already added to the simulator.</entry>
+        <entry key="InvalidActionID">Action identifier ({0}) does not exist.</entry>
+        <entry key="InvalidCellVector">Invalid input vector.</entry>
+        <entry key="NoMIMOInDefaultChannel">Default channel model supports single-input single-output (SISO) scenarios. Custom channel model must be added to simulate non-SISO scenarios.</entry>
+        <entry key="NodeNotAdded">Unable to send the packet because the node with ID ({0}) was not added to the simulator.</entry>
+    </message>
+</rsccat>

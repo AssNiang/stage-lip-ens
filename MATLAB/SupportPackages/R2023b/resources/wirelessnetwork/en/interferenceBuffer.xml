@@ -1,0 +1,9 @@
+<?xml version="1.0"?>
+<!-- Copyright 2021-2022 The MathWorks, Inc. -->
+<rsccat version="1.0" locale="en_US" product="wirelessnetwork">
+    <message>
+        <entry key="UnrecognizedStringChoice"><![CDATA[ Expected input to match one of these values: 'CenterFrequency', 'Bandwidth'. \n\n The input, ''{0}'', did not match any of the valid values]]>.</entry>
+        <entry key="MethodNotApplicable"><![CDATA[ The <a href="matlab:help('wirelessnetwork.internal.interferenceBuffer/resultantWaveform')">resultantWaveform</a> method is applicable only for full PHY]]>.</entry>
+        <entry key="InvalidWaveformSize">All the packets must contain same number of columns in packets "Data" field</entry>
+    </message>
+</rsccat>

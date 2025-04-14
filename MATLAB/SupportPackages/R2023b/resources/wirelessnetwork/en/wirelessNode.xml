@@ -1,0 +1,8 @@
+<?xml version="1.0"?>
+<!-- Copyright 2023 The MathWorks, Inc. -->
+<rsccat version="1.0" locale="en_US" product="wirelessnetwork">
+    <message>
+        <entry key="InvalidNVPair">Name-value argument must be "SpeedRange", "PauseDuration", "BoundaryShape", or "Bounds".</entry>
+        <entry key="PositionOutsideMobilityBounds">Mobility area defined by 'Bounds' must contain the node position.</entry>
+    </message>
+</rsccat>

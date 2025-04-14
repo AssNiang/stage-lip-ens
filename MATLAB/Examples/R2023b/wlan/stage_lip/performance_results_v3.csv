@@ -1,0 +1,3 @@
+ArrivalRate,NbSentPackets,NbReceivedPackets,Latency,Throughput
+100,1001,1000,0.0012207,1.2
+200,2001,2000,0.0012222,2.4

@@ -1,0 +1,13 @@
+ Hello Théotime,
+ j’espère que tu vas bien.
+
+J’aurais besoin d’un coup de main avec NS-3, car je débute dans cet environnement.
+
+Je cherche à simuler un scénario sur NS-3 et Matlab afin de comparer leur implémentation des couches 1 et 2 du sans-fil. Le scénario est assez simple : deux stations communiquent via un point d’accès. Mon problème concerne la récupération des métriques après la simulation sous NS-3, car j’ai besoin de ces statistiques pour effectuer la comparaison.
+
+Saurais-tu comment je pourrais m’y prendre ?
+
+Merci d'avance !
+Have a good day !
+
+Ass 

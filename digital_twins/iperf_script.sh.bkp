@@ -1,0 +1,79 @@
+#!/bin/bash
+
+# Durée de la simulation (en secondes)
+simulation_duration=60
+
+# Packet arrival rate (P) en paquets/sec
+P=100000
+
+# Taille des paquets en octets (fixée à 1500)
+L_OCTETS=1500
+
+# Convertir la taille en bits
+L_BITS=$((L_OCTETS * 8))
+
+# Calculer le débit en bps et en Mbps
+BPS=$((P * L_BITS))
+MBPS=$(echo "scale=3; $BPS / 1000000" | bc)  # Arrondi à 3 décimales
+
+# Afficher le débit calculé
+echo "Débit calculé : $BPS bps (${MBPS} Mbps)"
+
+# Adresse IP du serveur iPerf
+server_ip="192.168.137.1"
+
+# Définir le fichier JSON de sortie
+jsonFile="iperf_results.json"
+csvFile="iperf_results.csv"
+
+# Exécuter iPerf et récupérer les résultats en format JSON
+iperfOutput=$(iperf3 --client "$server_ip" --udp --bitrate "${MBPS}M" --length "$L_OCTETS" --time "$simulation_duration" --json)
+
+# Extraire les données pertinentes depuis le JSON
+timestamp=$(date +"%Y-%m-%d %H:%M:%S")
+
+# Récupérer le nombre de paquets envoyés et reçus
+packets_sent=$(echo "$iperfOutput" | jq '.end.sum.packets')
+packets_received=$(echo "$iperfOutput" | jq '.end.sum.packets - .end.sum.lost_packets')
+
+# Calculer le délai moyen
+# L'approximation est faite en fonction de la latence et des intervalles
+avg_delay=$(echo "$iperfOutput" | jq '.end.sum.jitter_ms')
+
+# Récupérer le débit
+throughput=$(echo "$iperfOutput" | jq '.end.sum.bits_per_second')
+
+# Créer un objet JSON pour les résultats extraits
+result=$(jq -n \
+  --arg timestamp "$timestamp" \
+  --arg packets_sent "$packets_sent" \
+  --arg packets_received "$packets_received" \
+  --arg avg_delay "$avg_delay" \
+  --arg throughput "$throughput" \
+  '{
+    timestamp: $timestamp,
+    packets_sent: $packets_sent,
+    packets_received: $packets_received,
+    avg_delay: $avg_delay,
+    throughput: $throughput
+  }')
+
+# Vérifier si le fichier JSON existe déjà
+if [ ! -f "$jsonFile" ]; then
+    # Si le fichier n'existe pas, créer un nouveau fichier JSON avec un tableau vide
+    echo "[$result]" > "$jsonFile"
+else
+    # Si le fichier existe, ajouter le résultat au tableau JSON existant
+    jq ". += [$result]" "$jsonFile" > tmp.json && mv tmp.json "$jsonFile"
+fi
+
+# Créer un fichier CSV avec les résultats
+# Si le fichier CSV n'existe pas, ajouter l'en-tête
+if [ ! -f "$csvFile" ]; then
+    echo "Timestamp,Packets Sent,Packets Received,Average Delay (s),Throughput (bps)" > "$csvFile"
+fi
+
+# Ajouter les résultats au fichier CSV
+echo "$timestamp,$packets_sent,$packets_received,$avg_delay,$throughput" >> "$csvFile"
+
+echo "Résultats enregistrés dans $jsonFile et $csvFile"

@@ -1,0 +1,38 @@
+﻿- Ajouter le MCS
+- La modulation
+- Le taux de codage : ½, ¾, etc.
+- La largeur du canal
+- La longueur du GI (Guard Interval)
+
+---
+
+C’est de l’OFDM
+
+---
+
+- Taille des paquets : un payload de 1500 octets (environ la valeur du MTU)
+- Taille des buffers : 500 paquets (500 x 1500 en terme de octets)
+
+- Veiller à ce qu’il n’y ait pas de fragmentation.
+
+- Mettre à jour les lambda (les STA communiques avec l’AP seulement), penser aux flux descendants.
+
+- Protocole de transport : UDP
+
+
+------------------------------------------------
+
+- Métriques: par noeud d’abord.
+
+
+------------------------------------------------
+
+Commencer  par un seul flux : de l’AP vers la station 1 par exemple
+
+	Au finish, 4 flux.
+
+------------------------------------------------
+
+PROCHAINE REUNION : JEUDI à 09h00
+
+	essayer d’implémenter le scénario avec un seul flux

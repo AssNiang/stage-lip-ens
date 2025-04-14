@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<productAdditionalComps>
+  <dependsOn />
+  <isControllingProduct>false</isControllingProduct>
+  <licenseAgreementType>ASLA</licenseAgreementType>
+  <platform>glnxa64</platform>
+  <productBaseCode>WIRELESSNETWORK</productBaseCode>
+  <productName>Communications Toolbox Wireless Network Simulation Library</productName>
+  <productNumber>2273</productNumber>
+  <productType>softwareSupportPkg</productType>
+  <productVersion>23.2.0</productVersion>
+  <releaseDescription>R2023b</releaseDescription>
+  <releaseFamily>R2023b</releaseFamily>
+</productAdditionalComps>
