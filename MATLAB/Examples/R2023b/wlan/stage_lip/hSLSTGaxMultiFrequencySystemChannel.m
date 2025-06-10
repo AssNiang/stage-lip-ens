@@ -70,7 +70,7 @@ classdef hSLSTGaxMultiFrequencySystemChannel < handle
             % the number of transmit and receive antennas, and channel
             % bandwidth are sets from the node configuration.
             prototypeChannel = wlanTGaxChannel(...
-                'DelayProfile','Model-D',...
+                'DelayProfile','Model-D',... 
                 'TransmitReceiveDistance',15,...
                 'ChannelFiltering',false,...
                 'OutputDataType','single', ...
@@ -179,9 +179,12 @@ classdef hSLSTGaxMultiFrequencySystemChannel < handle
 
             % Model path loss
             sig = pathLoss(obj,channel,sig,rxInfo);
+            disp(['Puissance après pathloss : ', num2str(sig.Power), ' dBm']);
 
             % Model shadow fading
             sig = shadowFading(obj,channel,sig,rxInfo);
+            disp(['Puissance après shadowfading : ', num2str(sig.Power), ' dBm']);
+
 
             % Model frequency-selective fading
             if obj.UseFullPHY
@@ -189,6 +192,9 @@ classdef hSLSTGaxMultiFrequencySystemChannel < handle
             else
                 sig.Metadata.Channel = getChannelStatistics(channel,sig,rxInfo);
             end
+
+            disp(['Puissance après freq-selective fading (full phy = true) : ', num2str(sig.Power), ' dBm']);
+
 
             % Restore original transmitter node ID
             sig.TransmitterID = nodeTxID;
@@ -200,8 +206,13 @@ classdef hSLSTGaxMultiFrequencySystemChannel < handle
 
             pl = getPathLoss(channel,sig,rxInfo); % dB
 
+            %%%disp(['Perte de trajet appliquée : ', num2str(pl), ' dB'])
+            %%%disp(['Puissance du signal initiale : ', num2str(sig.Power), ' dB'])
+
             % Apply path loss on the power of the packet
             sig.Power = sig.Power - pl;
+
+            %%%disp(['Puissance du signal apres path-loss : ', num2str(sig.Power), ' dB'])
 
             if obj.UseFullPHY
                 % Scale signal by path loss

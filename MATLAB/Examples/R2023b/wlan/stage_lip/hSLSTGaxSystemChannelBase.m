@@ -374,7 +374,7 @@ classdef hSLSTGaxSystemChannelBase < handle
                 pathTimeOffset = lastPathTime+(1/chan.SampleRate);
 
                 if ~isempty(obj.PathTimes{idx})
-                    % Keep path gains at times which are still needed,
+                    % Keep path gains at times which are sti needed,
                     % discard rest. Note we need 1 less than the minimum
                     % sample time to allow interpolation
                     keepIdx = find((obj.PathTimes{idx}>=sampleTimes(1))',1);
@@ -450,6 +450,7 @@ classdef hSLSTGaxSystemChannelBase < handle
                 case 'custom'
                     pl = obj.PathLossModelFcn(sig,rxInfo);
             end
+            disp(['Path loss model: ', obj.PathLossModel]);
         end
     end
 
