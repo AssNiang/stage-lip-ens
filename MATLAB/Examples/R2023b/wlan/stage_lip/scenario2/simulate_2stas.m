@@ -1,4 +1,4 @@
-function simulate_simple(staPosition, rate, simulationDuration)
+function simulate_2stas(distanceAp1Ap2, rate, simulationDuration)
     
     % --[Check if the Comm Toolbox is installed]--
     wirelessnetworkSupportPackageCheck;
@@ -35,12 +35,17 @@ function simulate_simple(staPosition, rate, simulationDuration)
     networkSimulator = wirelessNetworkSimulator.init;
 
     % Number of Nodes
-    numNodes = 2;
-    numSTAs = numNodes - 1;
+    % numNodes = 4;
+    numAPs = 2;
+    numSTAs = 2;
 
     % Nodes Positions
-    apPosition = [0 0 0];
-    staPositions = staPosition;
+    distAp1Ap2 = str2double("" + distanceAp1Ap2); % Distance between AP1 and AP2 in meters
+    apPositions = [0 0 0; distAp1Ap2 0 0];
+    staPositions = [0 10 0; distAp1Ap2 10 0];
+
+    disp(apPositions);
+
 
 
     % Nodes Configuration
@@ -58,26 +63,29 @@ function simulate_simple(staPosition, rate, simulationDuration)
         TransmitQueueSize=bufferSize);    % STA device configuration
     
     % Create Nodes
-    apNode = wlanNode(Name="AP", Position=apPosition, DeviceConfig=apConfig, PHYAbstractionMethod=PHYAbstractionMethod, MACFrameAbstraction=MACFrameAbstraction);
+    apNodes = wlanNode(Name="AP"+(1:numAPs), Position=apPositions, DeviceConfig=apConfig, PHYAbstractionMethod=PHYAbstractionMethod, MACFrameAbstraction=MACFrameAbstraction);
     staNodes = wlanNode(Name="STA"+(1:numSTAs), Position=staPositions, DeviceConfig=staConfig, PHYAbstractionMethod=PHYAbstractionMethod, MACFrameAbstraction=MACFrameAbstraction);
-        
+             
     % Create WLAN Network
-    nodes = [apNode staNodes];
+    nodes = [apNodes staNodes];
 
     % Verify configuration
     hCheckWLANNodesConfiguration(nodes);
 
     % Associate Stations
-    associateStations(apNode, staNodes);
+    % associateStations(apNode, staNodes);
+    for i = 1:numSTAs
+        associateStations(apNodes(i), staNodes(i));
+    end
 
     % --[Configure External Application Traffic]--
     for i = 1:numSTAs
         % Uplink (STA to AP)
-        trafficDown = networkTrafficOnOff( ...
+        trafficUP = networkTrafficOnOff( ...
             DataRate=(arrivalRate * packetSize * 8)/1000, ...
             PacketSize=packetSize, ...
             OnTime=Inf, OffTime=0);
-        addTrafficSource(apNode, trafficDown, DestinationNode=staNodes(i), AccessCategory=0);
+        addTrafficSource(staNodes(i), trafficUP, DestinationNode=apNodes(i), AccessCategory=0);
     end
 
     % Wireless Channel
@@ -90,9 +98,8 @@ function simulate_simple(staPosition, rate, simulationDuration)
         % Model-A : d_BP = 5m -> path_loss exponent = 3.5, shadow_fading std = 4 max_delay=0ns
         % ...ref: https://fr.mathworks.com/help/wlan/ref/wlantgnchannel-system-object.html
     tgnChan = wlanTGnChannel('DelayProfile','Model-A', ...
-                    'TransmitReceiveDistance',norm(staPosition - apPosition),...
+                    'TransmitReceiveDistance',10,...
                     'LargeScaleFadingEffect','None', ...    % 'None' (default) | 'Pathloss' | 'Shadowing' | 'Pathloss and shadowing'
-                    'ChannelFiltering',false, ...
                     'EnvironmentalSpeed', 0);   % Speed of the scatterers (diffuseurs : batiments, vehicules, etc.) in km/h
     
     % channel = hSLSTGaxMultiFrequencySystemChannel(nodes, tgnChan);
@@ -135,29 +142,49 @@ function simulate_simple(staPosition, rate, simulationDuration)
     end
 
     % Retrieve the APP, MAC and PHY statistics at each node
-    apStats = statistics(apNode);
+    apStats = statistics(apNodes);
     stasStats = statistics(staNodes);
-    nbSentPackets = "" + apStats(1).App.TransmittedPackets;
-    nbReceivedPackets = "" + stasStats(1).App.ReceivedPackets;
-
 
     % Retrieve Performance Metrics
     avgLatency = performancePlotObj.getAveragePacketLatency();
-    % packetLoss = performancePlotObj.getPacketLossRatio();
     throughput = performancePlotObj.getThroughput();
 
     % Store Results
-    resultRow = [arrivalRate, simulationTime, "AP->STA1", nbSentPackets, nbReceivedPackets, avgLatency(2,2), throughput(1,2)];
+    resultRows = [
+        [
+            arrivalRate, ...
+            simulationTime, ...
+            "STA1->AP1", ...
+            "" + stasStats(1).App.TransmittedPackets, ...
+            "" + apStats(1).App.ReceivedPackets, ...
+            avgLatency(1,2), ... % latency at AP
+            throughput(3,2) ...- % throughput of STA1 (traffic STA1->AP1)
+        ]; ...
+        [
+            arrivalRate, ...
+            simulationTime, ...
+            "STA2->AP2", ...
+            "" + stasStats(2).App.TransmittedPackets, ...
+            "" + apStats(2).App.ReceivedPackets, ...
+            avgLatency(1,2), ... % latency at AP
+            throughput(4,2) ...- % throughput of STA2 (traffic STA2->AP2)
+        ]
+    ];
 
-    % Define Output File
-    filename = '~/Documents/digital_twins/metrics/matlab_results.csv';
+    for i = 1:numSTAs
+        resultRow = resultRows(i,:);
+        % disp(resultRow);
 
-    % Check if file exists, append data or create with headers
-    if isfile(filename)
-        writematrix(resultRow, filename, 'WriteMode', 'append');
-    else
-        headers = ["Arrival Rate (pps)", "Simulation Duration (s)", "Flow Direction", "Packets Sent", "Packets Received", "Average Delay (s)", "Throughput"];
-        writematrix([headers; resultRow], filename);
+        % Define Output File
+        filename = '~/Documents/digital_twins/metrics/matlab_results_2stas.csv';
+        
+        % Check if file exists, append data or create with headers
+        if isfile(filename)
+            writematrix(resultRow, filename, 'WriteMode', 'append');
+        else
+            headers = ["Arrival Rate (pps)", "Simulation Duration (s)", "Flow Direction", "Packets Sent", "Packets Received", "Average Delay (s)", "Throughput"];
+            writematrix([headers; resultRow], filename);
+        end
     end
 
     disp(['Simulation completed for Arrival Rate: ', num2str(arrivalRate)]);

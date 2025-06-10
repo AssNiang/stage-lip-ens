@@ -1,0 +1,3 @@
+Arrival Rate (pps),Simulation Duration (s),Flow Direction,Packets Sent,Packets Received,Average Delay (s),Throughput
+1000,1,STA1->AP1,1001,528,0.24101,6.336
+1000,1,STA2->AP2,1001,501,0.24101,6.012

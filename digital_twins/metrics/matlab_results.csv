@@ -19,4 +19,3 @@ Arrival Rate (pps),Simulation Duration (s),Flow Direction,Packets Sent,Packets R
 1000,1,AP->STA1,985,0,0,0
 1000,1,AP->STA1,985,0,0,0
 1000,1,AP->STA1,985,0,0,0
-1000,20,AP->STA1,20001,19749,0.12935,11.8494
